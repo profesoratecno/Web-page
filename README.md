@@ -1,2 +1,2 @@
-# web-page
+# Web-page
 PUBLICACIÓN PÁGINA WEB EDUCATIVA
