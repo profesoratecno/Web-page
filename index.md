@@ -32,7 +32,7 @@ Para obtener más detalles, consulte [Sintaxis básica de escritura y formato] (
 
 ### Temas Jekyll
 
-Tu sitio de Pages utilizará el diseño y los estilos del tema de Jekyll que haya seleccionado en su [configuración del repositorio] (https://github.com/profesoratecno/web-page/settings/pages). El nombre de este tema se guarda en el archivo de configuración `_config.yml` de Jekyll.
+Tu sitio de Pages utilizará el diseño y los estilos del tema de Jekyll que haya seleccionado en su [configuración del repositorio](https://github.com/profesoratecno/web-page/settings/pages). El nombre de este tema se guarda en el archivo de configuración `_config.yml` de Jekyll.
 
 
 ### Soporte or Contacto
