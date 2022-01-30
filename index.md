@@ -28,7 +28,7 @@ Bloque de código resaltado de sintaxis
 [Link](url) and ![Imagen](src)
 ```
 
-Para obtener más detalles, consulte [Sintaxis básica de escritura y formato] (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para obtener más detalles, consulte [Sintaxis básica de escritura y formato](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Temas Jekyll
 
